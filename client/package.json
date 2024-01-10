@@ -2,7 +2,7 @@
   "name": "catstronauts-client",
   "version": "1.0.0",
   "type": "module",
-  "module": "src/__generated__/index.ts",
+  "module": "src/__generated__/",
   "private": true,
   "description": "front-end demo app for Apollo's lift-off course",
   "dependencies": {
@@ -12,7 +12,7 @@
     "@emotion/core": "^10.1.1",
     "@emotion/react": "^11.4.0",
     "@emotion/styled": "^11.3.0",
-    "@graphql-typed-document-node/core": "^3.2.0",
+    "@graphql-typed-document-node/core": "^3.1.0",
     "graphql": "^16.8.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
